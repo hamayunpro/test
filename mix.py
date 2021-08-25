@@ -97,7 +97,9 @@ logo = """
 Branded Rajput
 \033[1;97m-Demand By---Sana_Khan--Ahtesham_Khan---Rana_Bilal---Saim_Rajpoot--Rabia_Asif---------------------------------
 """
+                                                  
 
+    print("")
    \033[1;96m=======================================                                                 
 
     print("")
