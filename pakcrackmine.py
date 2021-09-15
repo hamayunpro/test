@@ -172,7 +172,7 @@ def login():
 		print('\033[1;97m═\x1b[1;91m.........LOGIN WITH FACEBOOK..........\x1b[1;97m═' )
 		print('	' )
 		try:
-        t_check = open('access_token.txt', 'r')
+       
         menu()
     except (KeyError, IOError):
         os.system('clear')
